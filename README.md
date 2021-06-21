@@ -27,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deardaveed&show_icons=true&locale=en" alt="deardaveed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deardaveed&" alt="deardaveed" /></p>
-
-
