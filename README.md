@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deardaveed" alt="deardaveed" /></a> </p>
 
-- 🔭 I’m currently working on **App Academy software engineering online**
+- 🔭 I’m currently working on **React Solo Project**
 
-- 🌱 I’m currently learning **React/Redux**
+- 🌱 I’m currently learning **React/Redux, how to pull out my hair**
 
 - 👨‍💻 All of my projects are available at [www.github.com/deardaveed](www.github.com/deardaveed)
 
-- 📫 How to reach me **daveman@gmail.com**
+- 📫 How to reach me - **daveman (replace-@-symbol-here) gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/david-h-374b30154/](https://www.linkedin.com/in/david-h-374b30154/)
+- 📄 Know about my experiences - [https://www.linkedin.com/in/david-h-374b30154/](https://www.linkedin.com/in/david-h-374b30154/)
 
-- ⚡ Fun fact **I published a poem when I was in middle school!**
+- ⚡ Fun fact - **I published a poem when I was in middle school!**
 
 
 <h3 align="left">Languages and Tools:</h3>
