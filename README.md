@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deardaveed" alt="deardaveed" /></a> </p>
 
-- 🔭 I’m currently working on **AmazonHunter - Product Hunt clone!**
+- 🔭 I’m currently working on **AmazonHunter - a Product Hunt clone!**
 
 - 🌱 I’m currently learning **Python**
 
