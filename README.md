@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deardaveed" alt="deardaveed" /></a> </p>
 
-- 🔭 I’m currently working on **React Solo Project**
+- 🔭 I’m currently working on **AmazonHunter, a Product Hunt clone!**
 
-- 🌱 I’m currently learning **React/Redux, how to pull out my hair**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [www.github.com/deardaveed](www.github.com/deardaveed)
 
