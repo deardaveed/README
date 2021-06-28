@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deardaveed" alt="deardaveed" /></a> </p>
 
-- 🔭 I’m currently working on **AmazonHunter - a Product Hunt clone!**
+- 🔭 I’m currently working on **studying for Python**
 
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [www.github.com/deardaveed](www.github.com/deardaveed)
 
-- 📫 How to reach me - **daveman (replace-@-symbol-here) gmail.com**
+- 📫 How to reach me - **daveman (replace-@-symbol-here) gmail (replace-period-here) com**
 
 - 📄 Know about my experiences - [https://www.linkedin.com/in/david-h-374b30154/](https://www.linkedin.com/in/david-h-374b30154/)
 
