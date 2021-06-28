@@ -14,7 +14,7 @@
 
 - 📫 How to reach me - **daveman (replace-@-symbol-here) gmail (replace-period-here) com**
 
-- 📄 Know about my experiences - [https://www.linkedin.com/in/david-h-374b30154/](https://www.linkedin.com/in/david-h-374b30154/)
+- 📄 Learn about my experiences - [https://www.linkedin.com/in/david-h-374b30154/](https://www.linkedin.com/in/david-h-374b30154/)
 
 - ⚡ Fun fact - **I designed my very own website beginning at 14! From HTML, to CSS, and even the Logo, was designed by me from scratch!**
 
