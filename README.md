@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences - [https://www.linkedin.com/in/david-h-374b30154/](https://www.linkedin.com/in/david-h-374b30154/)
 
-- ⚡ Fun fact - **I published a poem when I was in middle school!**
+- ⚡ Fun fact - **I designed my very own website beginning at 14! From HTML, to CSS, and even the Logo, was designed by me from scratch!**
 
 
 <h3 align="left">Languages and Tools:</h3>
