@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [www.github.com/deardaveed](www.github.com/deardaveed)
+- 👨‍💻 All of my projects are available at [http://www.github.com/deardaveed](www.github.com/deardaveed)
 
 - 📫 How to reach me - **daveman (replace-@-symbol-here) gmail (replace-period-here) com**
 
